@@ -17,6 +17,7 @@ int main() {
 
         // variavel para controlar os loops
         int i;
+        printf("Movimento da torre 5 casas direita):\n");
         // fazendo movimento da torre em (for)
         for (i = 1; i <= movimentosTorre; i++)
         {
